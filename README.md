@@ -21,4 +21,4 @@ http://localhost:8081/api/hotels/{hotelId}
 http://localhost:8081/api/rooms/{roomId}
 http://localhost:8081/api/guests/{guestId}
 http://localhost:8081/api/reservations/{reservationId}
-http://localhost:8081/api/workers/{workerId} 
+http://localhost:8081/api/workers/{workerId}
